@@ -2,5 +2,6 @@ hola soy gerson
  y naci en perú
 
  master 1
+ master 2
  en camara parece alto pero no lo es 
  hoy es el ceo de datalake
